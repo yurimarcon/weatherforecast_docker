@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bRgPOTVSE2s4kVSS/GYxbOVDStf1Ln3nLHzfq7eijPW/xmb9P7O8MWKBmM9sUAj1QkqFfK8sfEkT2jMwBGOH4g==",
+  "success": true,
+  "projectFilePath": "/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/api_dotnet.csproj",
+  "expectedPackageFiles": [
+    "/Users/yurimarcon/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/yurimarcon/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

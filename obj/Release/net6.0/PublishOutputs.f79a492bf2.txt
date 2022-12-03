@@ -1,0 +1,11 @@
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/api_dotnet
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/appsettings.Development.json
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/appsettings.json
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/api_dotnet.dll
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/api_dotnet.deps.json
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/api_dotnet.runtimeconfig.json
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/api_dotnet.pdb
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/Microsoft.OpenApi.dll
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/Swashbuckle.AspNetCore.Swagger.dll
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/yurimarcon/Documents/projetos/Docker/api_dotnet/dist/Swashbuckle.AspNetCore.SwaggerUI.dll
